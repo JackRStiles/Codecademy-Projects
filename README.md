@@ -1,4 +1,4 @@
-# Codecademy-Projects
+# Codecademy Projects
 A list of all of the Codecademy projects i've completed.
 
 ## React
